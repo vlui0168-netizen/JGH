@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'Publishing static site; no compilation required'"
+  publish = "static"
